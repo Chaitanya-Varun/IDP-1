@@ -1,5 +1,3 @@
-CS19BTECH11036
-CS19BTECH11036
 #include<LiquidCrystal.h>
 LiquidCrystal lcd(13,12,11,10,9,8);
 #include <SoftwareSerial.h>
